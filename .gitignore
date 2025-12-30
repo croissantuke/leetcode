@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# C / Executables
+*.exe
+*.out
+*.o
+
+# System
+.DS_Store
+Thumbs.db
+.vscode/
